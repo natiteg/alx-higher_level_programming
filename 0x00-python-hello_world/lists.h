@@ -3,6 +3,7 @@
 
 #include <stdlib.h>
 
+<<<<<<< HEAD
 /**
  * struct listint_s - singly linked list
  * @n: integer
@@ -10,6 +11,9 @@
  *
  * Description: singly linked list node structure
  */
+=======
+
+>>>>>>> 2527221843360fb51d257b449bd06ad65dd49c6c
 typedef struct listint_s
 {
 	int n;
